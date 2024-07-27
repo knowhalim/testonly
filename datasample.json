@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "isChecked": true,
+      "ItemName": "Sample Item 1",
+      "checktxt": "This is a check text."
+    },
+    {
+      "isChecked": false,
+      "ItemName": "Sample Item 2",
+      "checktxt": "This is a check text."
+    },
+    {
+      "isChecked": true,
+      "ItemName": "Sample Item 3",
+      "checktxt": "This is a check text."
+    }
+  ]
+}
